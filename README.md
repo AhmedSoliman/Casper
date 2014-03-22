@@ -1,5 +1,7 @@
 # Casper
 
+This theme is modified to run on AhmedSoliman.com blog
+
 The default theme for [Ghost](http://github.com/tryghost/ghost/).
 
 ## Copyright & License
